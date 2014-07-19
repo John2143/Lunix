@@ -1,3 +1,4 @@
 PACKAGES = {
-	luaide = "vyAZc6tJ"
+	luaide = "vyAZc6tJ",
+	enderregister = "WA1q6QgD"
 }
